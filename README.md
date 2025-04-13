@@ -1,5 +1,3 @@
-# 5TK Garage
-
 ## C3po - Data Validator, Decoder & Data Parser
 [github.com/5tkgarage/c3po](https://github.com/5tkgarage/c3po)
 
