@@ -1,8 +1,8 @@
 ## C3po - Data Validator, Decoder & Data Parser
-[github.com/5tkgarage/c3po](https://github.com/5tkgarage/c3po)
+[github.com/5tk-dev/c3po](https://github.com/5tk-dev/c3po)
 
 ## Braza - Web Framework
-[github.com/5tkgarage/braza](https://github.com/5tkgarage/braza)
+[github.com/5tk-dev/braza](https://github.com/5tk-dev/braza)
 
 ### Braza - Releases
 - Multi Routers
